@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PersonaTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-11-29T22:32:26" hostname="DESKTOP-CRJ9QD1" time="0.028">
+  <properties/>
+  <testcase name="EsMayorQueConPersonaMayorTest()" classname="PersonaTest" time="0.022"/>
+  <testcase name="SaludoTest()" classname="PersonaTest" time="0.001"/>
+  <testcase name="EsMayorQueConPersonaMenorTest()" classname="PersonaTest" time="0.001"/>
+  <testcase name="cumpleaniosTest()" classname="PersonaTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
